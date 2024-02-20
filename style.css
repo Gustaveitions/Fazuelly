@@ -1,10 +1,12 @@
+    :root{
+        --cor-de-fundo:#323232;
+    }
 
 body{
-    background-color: #000000:var(blueviolet);
+    background-color:var(--cor-de-fundo);
 }
 
     h1{
         color: #ffffff;
     }
-    :root{background-color: crimson;}
       
