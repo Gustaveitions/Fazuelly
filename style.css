@@ -1,3 +1,4 @@
+
 body{
     background-color: #000000;
 }
@@ -5,4 +6,5 @@ body{
     h1{
         color: #ffffff;
     }
+    :root{background-color: crimson;}
       
