@@ -1,5 +1,6 @@
     :root{
         --cor-de-fundo:#323232;
+        --hashtag:#232323;
     }
 
 body{
@@ -7,6 +8,6 @@ body{
 }
 
     h1{
-        color: #ffffff;
+        color: var(--hashtag);
     }
       
