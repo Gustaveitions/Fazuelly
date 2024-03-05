@@ -13,4 +13,3 @@ if (nomeUsuario == null){
 }
 
 
-texto.textContent = nomeUsuario;
