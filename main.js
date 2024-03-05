@@ -1,2 +1,5 @@
-alert("comiu o cu de quem tá lendo");
-prompt("Qual o tamanho da peça?");
+alert('comiu o cu de quem tá lendo');
+let nomeUsuario = prompt('Qual o tamanho da peça?');
+let texto = document.querySelector('#texto');
+
+anterior.textContent = nomeUsuario;
