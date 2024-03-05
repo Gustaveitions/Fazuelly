@@ -2,4 +2,4 @@ alert('comiu o cu de quem tá lendo');
 let nomeUsuario = prompt('Qual o tamanho da peça?');
 let texto = document.querySelector('#texto');
 
-anterior.textContent = nomeUsuario;
+texto.textContent = nomeUsuario;
