@@ -12,7 +12,8 @@ body{
     }
       .canudo{
         display:flex
-        #texto{
-            color: rebeccapurple;
-        }
+       
       }
+ #texto{
+            color: yellow;
+        }
