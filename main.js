@@ -2,7 +2,7 @@ alert('comiu o cu de quem tá lendo');
 let nomeUsuario = "";
 let texto = document.querySelector('#texto');
 
-while(nomeUsuario == ""){
+while(nomeUsuario == "" || nomeUsuario == null){
     nomeUsuario = prompt('Qual o tamanho da peça?');
 }
 
