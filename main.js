@@ -1,5 +1,9 @@
 alert('comiu o cu de quem tá lendo');
-let nomeUsuario = prompt('Qual o tamanho da peça?');
+let nomeUsuario = "";
 let texto = document.querySelector('#texto');
+
+while(nomeUsuario == ""){
+    nomeUsuario = prompt('Qual o tamanho da peça?');
+}
 
 texto.textContent = nomeUsuario;
