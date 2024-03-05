@@ -1,0 +1,1 @@
+alert("comiu o cu de quem tá lendo")
