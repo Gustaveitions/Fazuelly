@@ -5,6 +5,7 @@ let chute = '';
 
 
 
+
 while(chute == ''){
     chute =prompt('Você já traiu');
 }
