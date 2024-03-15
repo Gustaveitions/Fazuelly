@@ -1,12 +1,12 @@
 let numeroSecreto = 8;
 
-let chute = prompt('Você já traiu');
+let chute = '';
 
 
 
 
 while(chute == ''){
-
+    chute =prompt('Você já traiu');
 }
 
 if(numeroSecreto==chute){
