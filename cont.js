@@ -1,0 +1,1 @@
+const botos = document.querySelectorAll('.objetivos')
