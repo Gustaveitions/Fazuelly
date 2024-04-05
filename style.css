@@ -17,3 +17,7 @@ body{
  #texto{
             color: yellow;
         }
+
+.contagem{background-color: bisque;
+padding: 20px 0;
+}
