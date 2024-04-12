@@ -31,3 +31,10 @@ text-align: center;
 .ativo{background-color: black;
 color: beige;
 }
+.aba-conteudo{
+    display: nome;
+}
+
+.ativa{
+    display: block;
+}
