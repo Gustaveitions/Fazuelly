@@ -11,9 +11,6 @@
         color: var(--hashtag);
     }
 
-    .canudo {
-        display: flex
-    }
 
     #texto {
         color: yellow;
