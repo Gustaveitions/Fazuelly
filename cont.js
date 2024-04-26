@@ -32,8 +32,4 @@ segundos %= 60;
 minutos %= 60;
 horas %= 24;
 
-
-let segundos = tempoFinal/1000;
-
-
 contadores[0].textContent = dias + "dias"+ horas + "horas" + minutos + "minutos" + segundos + "segundos";
