@@ -17,3 +17,5 @@ for (let x = 0; x<botoes.length; x++){
 
 }
 
+const contadores = document.querySelectorAll('.contador')
+let tempoAtual = new Date ();
