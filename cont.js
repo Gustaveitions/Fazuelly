@@ -33,7 +33,6 @@ contadores[i].textContent = calculaTempo(tempos[i]);
 function calculaTempo(tempoObjetivo){ 
 let tempoFinal = tempoObjetivo - tempoAtual;
 
-contadores[0].textContent = tempoFinal;
 let segundos = Math.floor(tempoFinal/1000);
     let minutos = Math.floor(segundos/60);
     let horas = Math.floor(minutos/60);
